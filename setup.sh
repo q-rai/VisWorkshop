@@ -10,5 +10,5 @@
 
 echo "Fetching needed files .."
 mkdir -p Data
-curl -s -o Data/table.csv https://docs.google.com/spreadsheets/d/1h5kxUo2iTxa_L3-yszERP21ktYf8CxhmNUfoGOki5ow/edit?usp=sharing
+curl -s -o Data/table.csv https://drive.google.com/file/d/1zgpIeijFJaqO45NOwycsPpHN-cHAmAj0/view?usp=sharing
 echo "Done"
