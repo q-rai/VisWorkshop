@@ -10,5 +10,5 @@
 
 echo "Fetching needed files .."
 mkdir -p Data
-curl -s -o Data/table.csv https://raw.githubusercontent.com/q-rai/VisWorkshop/main/smileyData.csv
+curl -s -o Data/table.csv https://raw.githubusercontent.com/q-rai/VisWorkshop/main/Data/smiley.csv
 echo "Done"
