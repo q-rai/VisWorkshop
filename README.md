@@ -1,6 +1,7 @@
 # A Picture is Worth a Thousand Data Points: Introduction to Visualization
 ## Workshop at ACM Tapia Conference 2023
 
+<img width="194" alt="image" src="https://github.com/q-rai/VisWorkshop/assets/710522/00fb7b1e-a2b4-4037-b540-fc677308b2e4">
 
 
 ## Hands-on
