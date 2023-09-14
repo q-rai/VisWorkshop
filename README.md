@@ -1,9 +1,9 @@
 # A Picture is Worth a Thousand Data Points: Introduction to Visualization
 ## Workshop at ACM Tapia Conference 2023
 
-QR Code (links to this page, this is just for the interactive workshop)
 <img width="194" alt="image" src="https://github.com/q-rai/VisWorkshop/assets/710522/00fb7b1e-a2b4-4037-b540-fc677308b2e4">
 
+The QR Code links to this page (this is just for the interactive workshop)
 
 ## Hands-on
 1. Download the [notebook](https://github.com/q-rai/VisWorkshop/blob/main/2023_Tapia_Vis_Workshop.ipynb)
