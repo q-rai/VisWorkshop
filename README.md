@@ -1,7 +1,7 @@
 # A Picture is Worth a Thousand Data Points: Introduction to Visualization
 ## Workshop at SimBuild 2024
 
-<img width="194" alt="image" src="https://github.com/q-rai/VisWorkshop/assets/710522/00fb7b1e-a2b4-4037-b540-fc677308b2e4">
+<img width="194" alt="QR Code for link to this page" src="https://github.com/q-rai/VisWorkshop/assets/710522/3bdc6865-642a-47b7-bca3-497938f7480b">
 
 The QR Code links to this page (this is just for the interactive workshop)
 
